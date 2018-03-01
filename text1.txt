@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 9642-288F
+
+ Directory of C:\Users\ranjit.biswal\Desktop\MyProject
+
+03/01/2018  08:33 PM    <DIR>          .
+03/01/2018  08:33 PM    <DIR>          ..
+03/01/2018  08:33 PM                 0 text1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  463,746,613,248 bytes free
